@@ -1362,10 +1362,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/intro.js@4.1.0":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@types/intro.js/-/intro.js-3.0.2.tgz#cbf9b69f055b77582cc2cebe236e9a405b30efbd"
-  integrity sha512-kow8REgIIG42atN9vAaIdpEqVzj6WzV9m0PII8oce+an4Lc3eyfQF32/FbabbGmfWuF7TceTdd+gh74kOrXkPw==
+"@types/intro.js@3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@types/intro.js/-/intro.js-3.0.1.tgz#2a5272d6ceb715676f496fd0060eedc70d98c6fe"
+  integrity sha512-L4vCKY/4ZFpRgILDHd3oacARWYKYpz3oJfjweoc0ooM+OoM1HEtGRFM0JuNYQNTrgUXe+R4rUyLDYSeSnrmdLw==
 
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0", "@types/istanbul-lib-coverage@^2.0.1":
   version "2.0.2"
